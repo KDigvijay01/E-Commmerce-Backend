@@ -1,0 +1,11 @@
+{
+  "name": "e-commerce-app-backend-2.0",
+  "version": "1.0.0",
+  "description": "This is the backend part of E-Com-App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Digvijay",
+  "license": "ISC"
+}
